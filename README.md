@@ -19,7 +19,7 @@ Howdy, I'm a Web3 Security Researcher focused on securing DeFi, Cross-chain infr
 - [Sherlock (@jopantech)](https://audits.sherlock.xyz/watson/jopantech)
 - [Code4rena (@jopantech)](https://code4rena.com/@jopantech)
 - [Cantina (@jopantech)](https://cantina.xyz/u/jopantech)
-- [CodeHawks (@jopantech)]([https://profiles.cyfrin.io/u/jopantech])
+- [CodeHawks (@jopantech)](https://profiles.cyfrin.io/u/jopantech)
 
 ## Public Contests History
 
