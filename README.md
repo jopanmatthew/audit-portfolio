@@ -20,6 +20,7 @@ Howdy, I'm a Web3 Security Researcher focused on securing DeFi, Cross-chain infr
 - [Code4rena (@jopantech)](https://code4rena.com/@jopantech)
 - [Cantina (@jopantech)](https://cantina.xyz/u/jopantech)
 - [CodeHawks (@jopantech)](https://profiles.cyfrin.io/u/jopantech)
+- [Immunefi (@jopantech)](https://immunefi.com/profile/jopantech)
 
 ## Public Contests History
 
